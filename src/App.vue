@@ -12,7 +12,7 @@ export default {
 </script>
 <style>
 * {
-  border: 1px solid;
+  /* border: 1px solid; */
 }
 html,
 body {

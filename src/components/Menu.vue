@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="menu">
-      <el-image :src="img[0]" width="100px" />
+      <img :src="img[0]" height="55px" />
 
       <el-menu
         :default-active="activeIndex"
